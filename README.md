@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdvayDhar
-- 👀 I’m interested in Web Development, AI and ML, DSA and Blogchain Tech
+- 👀 I’m interested in Web Development, AI and ML, DSA and Blockchain Tech
 - 🌱 I’m currently learning Web Development!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
